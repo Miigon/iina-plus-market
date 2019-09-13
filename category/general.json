@@ -1,0 +1,9 @@
+{
+    "last-updated": "static market rarely updates",
+    "desciption": "Some general plugins.",
+    "plugins":
+    {
+        "miigon.testplugin": "./plugins/miigon.testplugin",
+        "plugin.outer_source": "http://github.io/miigon/iina-plus-plugin-outer-source/"
+    }
+}

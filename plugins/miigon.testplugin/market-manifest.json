@@ -1,0 +1,10 @@
+{
+    "name": "testplugin",
+    "identifier": "miigon.testplugin",
+    "author": "Miigon",
+    "version": "1.0",
+    "version-number": 1,
+    "iina-plus-api": 1,
+    "description": "This plugin does nothing but to annoy you when you're trying to pause your video. :)",
+    "market-zip": "testplugin.zip"
+}

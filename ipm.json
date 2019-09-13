@@ -1,0 +1,11 @@
+{
+    "market-version": 1,
+    "market-name": "iina-plus - Official Market",
+    "description": "Official iina-plus plugin market maintained by Miigon.\nThis is an example of a static market.",
+    "last-updated": "static market rarely updates",
+    "categories": {
+        "General": "general.json",
+        "UI Enhancements": "ui.json",
+        "Automation & Macros": "auto_macro.json"
+    }
+}
